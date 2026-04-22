@@ -1,14 +1,11 @@
----
-
 # 🚀 WeChat AI Digest / 微信群聊AI摘要助手
 
-**Automated AI summaries for WeChat group chats — every 5 minutes**
-**每 5 分钟自动生成微信群聊 AI 摘要，并推送通知**
+* Automated AI summaries for WeChat group chats — every 5 minutes
+* 每 5 分钟自动生成微信群聊 AI 摘要，并推送通知
 
-Turn noisy WeChat group chats into clear, structured, actionable insights.
-将杂乱的微信群聊记录，转化为清晰、结构化、可执行的信息。
+* Turn noisy WeChat group chats into clear, structured, actionable insights.
+* 将杂乱的微信群聊记录，转化为清晰、结构化、可执行的信息。
 
----
 
 ## ✨ Features / 功能亮点
 
@@ -84,7 +81,6 @@ Turn noisy WeChat group chats into clear, structured, actionable insights.
 ---
 
 ## 🛠 Prompt 配置 / Prompt Configuration
-
 ```text
 根据我的提示词设置每【5分钟】一次的定时任务 “微信群聊记录AI自动总结”。监测 QQ 邮箱中【今天】的来自 【您的QQ邮箱@qq.com】 的、标题格式为【微信群"xxx"的聊天记录】的邮件。
 
