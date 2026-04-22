@@ -1,4 +1,4 @@
-# 🚀 WeChat AI Digest / 微信群聊AI摘要助手
+# 🚀 WeChat Group Chat AI Digest / 微信群聊AI摘要助手
 
 * Automated AI summaries for WeChat group chats — every 5 minutes
 * 每 5 分钟自动生成微信群聊 AI 摘要，并推送通知
