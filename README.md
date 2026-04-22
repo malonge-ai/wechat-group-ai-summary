@@ -84,6 +84,7 @@
 ## 🛠 使用工具 / Tools
 QClaw
 
+---
 
 ## 🛠 Prompt 配置 / Prompt Configuration
 ```text
